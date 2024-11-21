@@ -1,3 +1,3 @@
-# viaje_easy
+# yupi
 
 A new Flutter project.
